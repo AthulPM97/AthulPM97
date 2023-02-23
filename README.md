@@ -8,7 +8,7 @@ I'm Athul, a front-end developer specialized in React.
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m currently learning web scraping with cheerio
+- 🌱 I’m currently learning mobile app development with Ionic framework
 - 👯 I’m looking to collaborate on styling with css/bootstrap
 - 📫 Reach me at 97athulpm@gmail.com
 
