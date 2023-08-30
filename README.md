@@ -6,7 +6,7 @@ Backend:
 NodeJS, Express, Mongodb, SQL, postgreSQL, Mongoose, Sequelize, AWS
 
 Frontend:
-React, Vue, Ionic
+React, Vue, Ionic, Angular
 
 <!--
 **AthulPM97/AthulPM97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
